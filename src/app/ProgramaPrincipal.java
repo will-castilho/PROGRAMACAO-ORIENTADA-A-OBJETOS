@@ -13,5 +13,6 @@ public class ProgramaPrincipal {
                  new BigDecimal("1000.99"));
 
         fulano.apresentarse();
+        System.out.println(fulano);
     }
 }

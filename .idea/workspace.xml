@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4cc3a732-3f09-4f72-a029-ba4c26039698" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/app/ProgramaPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/ProgramaPrincipal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/TestaPacote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/TestaPacote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/domain/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714328404047</updated>
-      <workItem from="1714328405281" duration="3590000" />
+      <workItem from="1714328405281" duration="4432000" />
     </task>
     <servers />
   </component>

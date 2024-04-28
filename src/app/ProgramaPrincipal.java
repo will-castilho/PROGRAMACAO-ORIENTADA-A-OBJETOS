@@ -18,5 +18,7 @@ public class ProgramaPrincipal {
         System.out.println("Endereço.....: " + fulano.endereco);
         System.out.println("Nascimento.....: " + fulano.nascimento);
         System.out.println("Salário.....: " + fulano.salario);
+
+        fulano.apresentarse();
     }
 }
